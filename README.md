@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 
-- 🌱 I’m currently learning **React Native, NextJS and RabbitMQ**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **NodeJS, NestJS, React, Typescript, TailwindCSS, Javascript**
 
