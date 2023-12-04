@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **NodeJS, NestJS, React, Typescript, TailwindCSS, Javascript**
+- 💬 Ask me about **NodeJS, NestJS, React, React Native, Typescript, TailwindCSS, Javascript**
 
 - 📫 How to reach me **sadeceabk@gmail.com**
 
