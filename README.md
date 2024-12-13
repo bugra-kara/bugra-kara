@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 
-- 💬 Ask me about **NodeJS, NestJS, React, React Native, Typescript, TailwindCSS, Javascript**
+- 💬 Ask me about **NodeJS, NestJS, Microservies, React, React Native, Typescript, TailwindCSS, Javascript**
 
 - 📫 How to reach me **sadeceabk@gmail.com**
 
