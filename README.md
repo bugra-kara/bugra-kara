@@ -2,8 +2,6 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 
-- 🌱 I’m currently learning **Java**
-
 - 💬 Ask me about **NodeJS, NestJS, React, React Native, Typescript, TailwindCSS, Javascript**
 
 - 📫 How to reach me **sadeceabk@gmail.com**
